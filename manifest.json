@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "My:Perfect Piano",
+  "description": "My Perfect Piano:Pro",
   "dir": "ltr",
   "display": "standalone",
-  "name": "My:Perfect Piano",
+  "name": "My Perfect Piano:Pro",
   "orientation": "any",
   "scope": "/",
-  "short_name": "My:Perfect Piano",
+  "short_name": "My Perfect Piano:Pro",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "My:Perfect Piano",
+      "name": "My Perfect Piano:Pro",
       "url": "",
       "description": ""
     }
