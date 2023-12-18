@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "My Perfect Piano:Pro",
+  "description": "My Perfect:Piano A Fun Game",
   "dir": "ltr",
   "display": "standalone",
-  "name": "My Perfect Piano:Pro",
+  "name": "My Perfect:Piano",
   "orientation": "any",
   "scope": "/",
-  "short_name": "My Perfect Piano:Pro",
+  "short_name": "My Perfect:Piano",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "My Perfect Piano:Pro",
+      "name": "My Perfect:Piano",
       "url": "",
       "description": ""
     }
